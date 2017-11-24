@@ -1,0 +1,44 @@
+-----------------JAVA
+class 클래스명 {
+	멤버변수
+	생성자:
+	멤버메소드
+}
+
+
+-----------------JavaScript
+
+Member=function (id,name){
+	this.id=id;
+	this.name=name;
+}
+
+
+
+
+
+
+
+
+JSON 은 기술이 아니고 표기법임
+
+JavaScript Object Notation
+ - 서로다른 프로그래밍 언어간에 데이터를 교환시키기 위한 표기법이다.
+ - 경량의 DATA 교환 형식
+ - 두개의 구조를 기본으로 두고 있다.
+name/value 형태의 쌍으로 collection 타입. 다양한 언어들에서, 이는 object, record, struct(구조체), dictionary, hash table, 키가 있는 list, 또는 연상배열로서 실현 되었다.
+값들의 순서화된 리스트. 대부분의 언어들에서, 이는 array, vector, list, 또는 sequence로서 실현 되었다.
+
+즉 객체 타입과 배열 타입으로 작성한다.
+
+객체 타입
+ex)
+
+
+	{stirng key : value}
+
+
+
+contentType="text/plain" -- 일반 텍스트 문서로 바꾸는 법 그 이외에 읽을 타입을 변환시킬 수 있다.
+
+XML 보다 JSON 에 대한 비중이 높아지는 추세
